@@ -1,4 +1,4 @@
-package customer.cds_incorrect_mapping;
+package customer.cdsincorrectmapping;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
